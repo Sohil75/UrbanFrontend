@@ -10,7 +10,7 @@ Cart & Wishlist
 
 Secure user-friendly interface
 
-Working demo (urbangentt.netlify.app) backend git repo (https://github.com/Sohil75/EcommerceBackend) host link of backend (https://ecommercebackend-2-bh8f.onrender.com)
+Working demo (https://urbangentt.netlify.app/) backend git repo (https://github.com/Sohil75/EcommerceBackend) host link of backend (https://ecommercebackend-2-bh8f.onrender.com)
 
 ##Instructions
 
